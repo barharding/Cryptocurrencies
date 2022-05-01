@@ -1,3 +1,3 @@
 # Cryptocurrencies
 
-A README.md that includes the purpose of the repository and short description of what was accomplished. Although there is no graded written analysis for this challenge, it is encouraged and good practice to add a brief description of your project.
+The purpose of this challenge was to use clustering and unsupervised machine learning to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for a new investment. Both the K-Means method and the PCA algorithm were used to accomplish this task.
